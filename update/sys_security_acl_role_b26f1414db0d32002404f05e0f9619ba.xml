@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 20:01:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b26f1414db0d32002404f05e0f9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ssss_testtable.x_snc_ssss.testtable_user</sys_name>
+        <sys_package display_value="ssss" source="x_snc_ssss">95b4c4b0dbd432002404f05e0f9619c3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ssss">95b4c4b0dbd432002404f05e0f9619c3</sys_scope>
+        <sys_security_acl display_value="x_snc_ssss_testtable">ba6f1414db0d32002404f05e0f9619b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b26f1414db0d32002404f05e0f9619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 20:01:14</sys_updated_on>
+        <sys_user_role display_value="x_snc_ssss.testtable_user" name="x_snc_ssss.testtable_user">2e6f1414db0d32002404f05e0f961994</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

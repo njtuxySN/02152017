@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="testTable">f26f1414db0d32002404f05e0f9619ad</application>
+        <filter/>
+        <name>testTables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_ssss.testtable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 20:01:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f26f1414db0d32002404f05e0f9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testTables</sys_name>
+        <sys_package display_value="ssss" source="x_snc_ssss">95b4c4b0dbd432002404f05e0f9619c3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ssss">95b4c4b0dbd432002404f05e0f9619c3</sys_scope>
+        <sys_update_name>sys_ui_module_f26f1414db0d32002404f05e0f9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 20:01:13</sys_updated_on>
+        <table>x_snc_ssss_testtable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

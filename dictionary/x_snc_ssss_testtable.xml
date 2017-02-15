@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="testTable" max_length="40" name="x_snc_ssss_testtable" type="collection"/>
+</database>
